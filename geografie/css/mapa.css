@@ -1,6 +1,4 @@
-body {
-    background-color: black ;
-}
+
 .con {
     position: relative;
     text-align: center;
@@ -19,11 +17,11 @@ header img {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     color: white;
-    text-shadow: 5px 5px black;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-shadow: 5px 5px black;
   }
 
 
@@ -38,28 +36,23 @@ h3 {
     color: #002fbd;
 }
 
-#nazev, {
-    padding-top: 5px;
+#map{
+    width: 80%;
+    margin: auto;
 }
 
-#vlajka, #znak {
-    padding-top: 5px;
-    text-align: center;
+#map path{
+    fill: #002fbd;
+    stroke: black;
+    stroke-linejoin: bevel;
+    stroke-width: 1px;
+    transition: fill 0.3s;
 }
 
-
-.udalosti
-{
-    display: none;
-    padding-bottom: 5px;
+#map path:hover {
+    fill: #001b69 !important;
 }
 
-.udalosti-title {
-    color: white;
-    background-color: #002fbd;
-    padding: 5px;
-}
-
-.udalosti-title:hover {
-    cursor: pointer;
-}   
+ellipse:hover {
+     fill: #f75a00 !important; 
+    }
