@@ -1,0 +1,23 @@
+{
+  "name": "australie",
+  "version": "1.0.0",
+  "description": "Austrálie",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurkamarek/australie.git"
+  },
+  "author": "Marek Kurka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurkamarek/australie/issues"
+  },
+  "homepage": "https://github.com/kurkamarek/australie#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

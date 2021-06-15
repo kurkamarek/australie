@@ -1,0 +1,52 @@
+[
+    {
+        "id": "perth",
+        "city": "Perth",
+        "peoples": 2039200,
+        "photo": "perth.webp",
+        "text": "Perth je hlavní město nejrozlehlejšího australského svazového státu Západní Austrálie. Se vzdáleností 2 800 km od nejbližšího lidnatého města Adelaide představuje nejodlehlejší velkoměsto světa. Podle odhadu k roku 2005 má město 1,7 milionu obyvatel, celá aglomerace pak asi 2,2 milionu, čímž se Perth velikostí řadí na čtvrté místo v Austrálii. Město bylo založeno roku 1829 u řeky Swan river a nazváno podle starobylého města Perth ve Skotsku. Jde o kosmopolitní a turisticky oblíbené město s nádhernými písečnými plážemi. Jeho moderní centrum je plné mrakodrapů, nejvyšší z nich jsou přes 300 metrů vysoké. Je to také jedno z nejbohatších australských měst, a to díky nerostnému bohatství, které Západní Austrálie a okolí Perthu nabízí. Město je obklopeno vesměs vyprahlými pouštěmi a nachází se také blízko 200 kilometrů dlouhého hornatého pásu lesů podél pobřeží. Žije zde mnoho přistěhovalců, převážně z jihovýchodní Asie (Filipíny, Thajsko, Vietnam, Malajsie, Indonésie, Singapur, Hongkong, Čína), ale také z Evropy, Nového Zélandu nebo Jihoafrické republiky. Zřejmě i díky své odlehlosti je Perth, co se týče kriminality, nejbezpečnější australské velkoměsto. V roce 2010 byl britským týdeníkem The Economist vyhodnocen jako osmé nejvhodnější město k životu na světě."
+    },
+    {
+        "id": "darwin",
+        "city": "Darwin",
+        "peoples": 136828,
+        "photo": "darwin.jpg",
+        "text": "Darwin je hlavní město a sídlo správy Severního teritoria a nejdůležitější přístav Severní Austrálie. Založeno bylo v roce 1869 pod názvem Palmerston. Teprve v roce 1911 byl přejmenován na Darwin podle přírodovědce Charlese Darwina. V roce 2019 mělo přibližně 150 tisíc obyvatel. Legislativní shromáždění Severního teritoria sídlí od roku 1994 v nové parlamentní budově, ve které je také umístěna knihovna Severního teritoria. V průběhu minulého století bylo město dvakrát téměř zničeno. 19. února 1942 na město zaútočilo japonské letectvo. V prosinci 1974 větší část města poničil Cyklón Tracy (v této oblasti se cyklón nazýval willy). Od 16. ledna 2004 je Darwin spojen železnicí s vnitrozemským městem Alice Springs."
+    },
+    {
+        "id": "brisbane",
+        "city": "Brisbane",
+        "peoples": 2360241,
+        "photo": "brisbane.jpg",
+        "text": "Brisbane je třetí největší město v Austrálii, správní středisko a zároveň největší město státu Queensland. Leží na východě, na řece Brisbane 20 km od ústí do moře. Roku 1824 zde byla založena trestanecká kolonie v Redcliffe. Hlavním městem Queenslandu se město stalo v roce 1859. V 80. letech 20. století začal prudký rozvoj města a dnes je Brisbane jedním z nejrychleji rostoucích měst v Austrálii. Brisbane je zároveň důležité průmyslové, finanční a dopravní středisko, ve městě se nachází námořní přístav a mezinárodní letiště. Ve městě se nachází státní knihovna, státní muzeum, divadla, hvězdárna, botanická a zoologická zahrada, dále několik škol a univerzit. Mezi nejvýznamnější patří University of Queensland, Queensland University of Technology a Griffith University. Dopravní síť města je poměrně rozsáhlá, jak v centru, tak v městských částech. Veřejná doprava je zajišťována autobusy, příměstskými (10 linek) a meziregionálními vlaky a loděmi (pod názvem CityCat a CityFerry) po řece Brisbane. Největší podíl na přepravě osob mají osobní automobily. Brisbane má vybudovanou rozsáhlou síť stezek pro chodce a cyklisty. Od roku 2009 je město každoročně dějištěm úvodního tenisového turnaje nové sezóny – Brisbane International, a to v rámci mužského a ženského profesionálního okruhu."
+    },
+    {
+        "id": "adelaide",
+        "city": "Adelaide",
+        "peoples": 1295714,
+        "photo": "adelaide.jpg",
+        "text": "Adelaide je hlavní a nejlidnatější město australského státu Jižní Austrálie a páté největší město v Austrálii. Má rozlohu 1826,9 km² a asi 1,3 milionu obyvatel. Jde o pobřežní město a nachází se na Adelaide Plains, severně od poloostrova Fleurieu, mezi zálivem Sv. Vincenta a nízkým pohořím Mount Lofty Ranges. Město dostalo své jméno po královně Adelaide, manželce britského krále Viléma IV. Založeno bylo roku 1836 plukovníkem Williamem Lightem jako plánované město, které bylo předem detailně navrženo a byla pro ně vybrána nejvhodnější lokalita poblíž řeky Torrens. V roce 1900 byly ulice města elektrifikovány a do roku 1909 byla vystavěna veřejná doprava v podobě elektrických tramvají. Přibližně 28 000 mužů bylo z oblasti vysláno bojovat do I. světové války. Tramvajové linky byly během padesátých let do roku 1958 zlikvidovány s výjimkou jedné, vedoucí na předměstí Glenelg, a nahrazeny autobusovými. Roku 1962 zde zemřel biolog Ronald Fisher. Roku 2007 byla tramvaj v centru prodloužena o 1,6 km a o tři roky později o 2,8 km, čímž délka celé tratě dosáhla 15 km."
+    },
+    {
+        "id": "sydney",
+        "city": "Sydney",
+        "peoples": 5312000,
+        "photo": "sydney.jpg",
+        "text": "Sydney je nejrozlehlejší a nejlidnatější město v Austrálii, jde o hlavní město Nového jižního Walesu. Sydney se nachází na severovýchodním pobřeží Tasmanova moře. Se svou populací přesahující 4,5 milionů obyvatel (v  metropolitní oblasti) je nejlidnatější obcí v Oceánii. Obyvatelé Sydney nemají v češtině jednoslovné pojmenování. V angličtině se ujalo slovo Sydneysider - toto slovo vzniklo z kosmopolitní a mezinárodní populace tohoto města. Sídlo první britské kolonie v Austrálii, Sydney, bylo založeno 26. ledna 1788 u malého zálivu Sydney Cove Arthurem Phillipem. Město je vystavěno na kopcích okolo členité a hluboko do pevniny zařezané zátoky Port Jackson, která se nyní spíše nazývá Sydney Harbour a nad níž se dnes tyčí Sydney Opera House a Harbour Bridge. V okolí metropolitní plochy se rozprostírají národní parky a pobřežní regiony, které obsahují spousty zátok, řek a pláží, včetně známé pláže Bondi. V městě se také nachází spousta parků, mj. i známý Hyde Park, či Royal Botanical Gardens (Královské botanické zahrady)."
+    },
+    {
+        "id": "melbourne",
+        "city": "Melbourne",
+        "peoples": 4529500,
+        "photo": "melbourne.jpg",
+        "text": "Melbourne je hlavní město australského státu Victoria a po Sydney druhé největší město v zemi. Počet obyvatel dosahuje 5,1 miliónu. V letech 1901 až 1927 bylo hlavním městem Austrálie. Je důležitým ekonomickým a průmyslovým centrem. Město leží na jihu Austrálie i Victorie, na březích řeky Yarra. Jižní Melbourne je omýván zátokou Port Phillip. Centrum zaujímá City of Melbourne. Na 36 km² zde žije 46 000 obyvatel. Město leží na jihu Austrálie i Victorie, na březích řeky Yarra. Jižní Melbourne je omýván zátokou Port Phillip. Centrum zaujímá City of Melbourne. Na 36 km² zde žije 46 000 obyvatel. Na přelomu ledna a února se v Melbourne Parku každoročně hraje první tenisový grandslam sezóny Australian Open. Vždy v březnu se v Melbourne jezdí závod seriálu Formule 1 Grand Prix Austrálie. Mezi místními je velmi populární i dostihový závod Melbourne Cup, konaný obvykle v listopadu. V roce 1956 se zde konaly letní olympijské hry, šlo o první olympijské hry na jižní polokouli. V Melbourne sídlí řada kulturních, sportovních i dopravních institucí celonárodního významu, jako je například stadion Melbourne Cricket Ground, Národní galerie Victoria, Letiště Melbourne, druhé nejvytíženější letiště v zemi, nebo místní nákladní přístav, největší v Austrálii. Melbourne je často nazýván „Australské zahradní město“ z důvodu četných zahrad a parků. Zdejší Královská výstavní budova a zahrady Carlton jsou součástí světového kulturního dědictví UNESCO. V žebříčku týdeníku The Economist, hledajícím každoročně města nejlepší pro život, získala Melbourne první místo v letech 2011 až 2017. Melbourne je proslulé svou tramvajovou sítí, která je největší na světě."
+    },
+    {
+        "id": "hobart",
+        "city": "Hobart",
+        "peoples": 222356,
+        "photo": "hobart.jpg",
+        "text": "Hobart je hlavní a nejlidnatější město australského ostrovního státu Tasmánie. Jde o druhé nejstarší město Austrálie (po Sydney). Bylo založeno v roce 1804 jako trestanecká kolonie, pojmenováno bylo po britském ministrovi kolonií lordu Hobartovi. V celé městské aglomeraci zvané Greater Hobart (Větší Hobart) bylo při sčítání lidu v roce 2011 napočteno 211 656 obyvatel. Odhad skutečného stavu ve stejnou dobu byl 216 300 obyvatel. V samotném Hobartu (City of Hobart) bylo zjištěno 170 975 obyvatel. Město je finančním a administrativním srdcem Tasmánie, jakož i domovským přístavem australských a francouzských antarktických výprav a operací."
+    }
+    
+]
